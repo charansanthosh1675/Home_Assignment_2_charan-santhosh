@@ -90,6 +90,26 @@
 ---
 
 ## Output Screenshot Example:
-- question 1
+
+## question 1
+
 ![image](https://github.com/user-attachments/assets/e41b6d5b-3983-4202-aa8b-44322f02bf16)
+
+## question 2 
+## Task 1
+
+![image](https://github.com/user-attachments/assets/52c0166f-8cc6-4996-9ec6-0d4047f7be56)
+
+## Task 2
+
+![image](https://github.com/user-attachments/assets/df84500d-cf63-4ef3-aa25-5c41d0d224a2)
+
+## question 3
+
+![image](https://github.com/user-attachments/assets/211ae552-0a2e-4f2a-b7a1-6cc2660d7810)
+
+
+
+
+
 
