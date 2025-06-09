@@ -2,10 +2,10 @@
 # CS5720 Neural Networks and Deep Learning
 
 ---
-## Student Name: gudiseva charan santhosh 
-## Student id: 700776700
-## Course: CS5720 – Neural Networks and Deep Learning  
-## University: University of Central Missouri  
+- Student Name: gudiseva charan santhosh 
+- Student id: 700776700
+- Course: CS5720 – Neural Networks and Deep Learning  
+- University: University of Central Missouri  
 
 ---
 
