@@ -83,6 +83,13 @@
 
 ## How to Run This Project
 
-1. Clone the repo:git clone 
-2. Install required libraries:pip install tensorflow matplotlib
+1. Clone the repo:git clone https://github.com/charansanthosh1675/Home_Assignment_2_charan-santhosh.git
+2. Install required libraries:pip install tensorflow matplotlib,pip install opencv-python matplotlib tensorflow,pip install pandas scikit-learn
 3. Run the Python file:python Home_Assignment_2_charan_santhosh.py
+
+---
+
+## Output Screenshot Example:
+- question 1
+![image](https://github.com/user-attachments/assets/e41b6d5b-3983-4202-aa8b-44322f02bf16)
+
